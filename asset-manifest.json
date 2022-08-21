@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/tripago/static/css/main.ff770d96.css",
-    "main.js": "/tripago/static/js/main.a99bfee0.js",
-    "index.html": "/tripago/index.html",
-    "main.ff770d96.css.map": "/tripago/static/css/main.ff770d96.css.map",
-    "main.a99bfee0.js.map": "/tripago/static/js/main.a99bfee0.js.map"
+    "main.css": "/static/css/main.ff770d96.css",
+    "main.js": "/static/js/main.a99bfee0.js",
+    "index.html": "/index.html",
+    "main.ff770d96.css.map": "/static/css/main.ff770d96.css.map",
+    "main.a99bfee0.js.map": "/static/js/main.a99bfee0.js.map"
   },
   "entrypoints": [
     "static/css/main.ff770d96.css",
