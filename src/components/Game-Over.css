@@ -1,0 +1,44 @@
+.game-over {
+  display: flex;
+  top: 39%;
+  right: 32%;
+  position: absolute;
+  height: 30%;
+  width: 36%;
+  background-color: #2b82a3e6;
+  border: #0000005c 2px solid;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 9px;
+}
+.close {
+  width: 9%;
+  height: 12%;
+  border: 1px solid white;
+  cursor: pointer;
+  position: absolute;
+  top: 6px;
+  right: 5px;
+  background: none;
+  border-radius: 5px;
+}
+.close:hover {
+  background-color: #354f6c;
+}
+.new-game {
+  background: none;
+  border: 2px solid #fff;
+  padding: 6px 15px;
+  border-radius: 4px;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 56%;
+  color: rgb(160 181 205);
+  width: 25%;
+  height: 12%;
+}
+button:hover {
+  background-color: #0c1532;
+  color: #fff;
+}
