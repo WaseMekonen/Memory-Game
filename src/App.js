@@ -5,12 +5,12 @@ import Clock from "./components/clock";
 import GameOver from "./components/Game-Over";
 
 const cardImages = [
-  { src: "/img/Yasur.png", matched: false },
-  { src: "/img/Adir.png", matched: false },
-  { src: "/img/Kohav.png", matched: false },
-  { src: "/img/Peten.png", matched: false },
-  { src: "/img/Sofa.png", matched: false },
-  { src: "/img/Yanshof.png", matched: false },
+  { src: "img/Yasur.png", matched: false },
+  { src: "img/Adir.png", matched: false },
+  { src: "img/Kohav.png", matched: false },
+  { src: "img/Peten.png", matched: false },
+  { src: "img/Sofa.png", matched: false },
+  { src: "img/Yanshof.png", matched: false },
 ];
 
 function App() {
