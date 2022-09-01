@@ -1,16 +1,15 @@
 .game-over {
   display: flex;
-  top: 39%;
-  right: 32%;
+  top: 38%;
+  right: 18%;
   position: absolute;
-  height: 30%;
-  width: 36%;
+  height: 59%;
+  width: 56%;
   background-color: #2b82a3e6;
   border: #0000005c 2px solid;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  border-radius: 9px;
 }
 .close {
   width: 9%;

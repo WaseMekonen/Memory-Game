@@ -3,14 +3,20 @@ import "./App.css";
 import Card from "./components/Card";
 import Clock from "./components/clock";
 import GameOver from "./components/Game-Over";
+import Yasur from './img/Yasur.png'
+import Kohav from './img/Kohav.png'
+import Peten from './img/Peten.png'
+import Sofa from './img/Sofa.png'
+import Adir from './img/Adir.png'
+import Yanshof from './img/Yanshof.png'
 
 const cardImages = [
-  { src: "img/Yasur.png", matched: false },
-  { src: "img/Adir.png", matched: false },
-  { src: "img/Kohav.png", matched: false },
-  { src: "img/Peten.png", matched: false },
-  { src: "img/Sofa.png", matched: false },
-  { src: "img/Yanshof.png", matched: false },
+  { src: Yasur, matched: false },
+  { src: Adir, matched: false },
+  { src: Kohav, matched: false },
+  { src: Peten, matched: false },
+  { src: Sofa, matched: false },
+  { src: Yanshof, matched: false },
 ];
 
 function App() {

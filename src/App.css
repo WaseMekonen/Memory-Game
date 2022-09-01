@@ -1,13 +1,14 @@
 .App {
   display: flex;
   max-width: 800px;
-  margin: 40px auto;
+  margin: 0 auto;
   flex-direction: column;
 }
 
 .header-flex {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
+  margin-bottom: 25px;
 }
 .header-flex button,
 .clock {
@@ -52,11 +53,11 @@ button:hover {
   
   .header-flex button,
   .pairs-counter {
-    font-size: 17px;
+    font-size: 1rem;
     color: rgb(160 181 205);
-    width: 31%;
-    height: 90%;
-  }
+    width: 35%;
+    height: 4%;
+}
   .card-grid {
     margin: auto 7px;
     display: grid;
